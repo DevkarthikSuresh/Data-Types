@@ -36,3 +36,18 @@ int main() {
     cin>>myBoolVar;
     cout<<"Size is "<<sizeof(myBoolVar)<<"\n";
 }
+
+/*
+Enter integer:3
+Size is 4
+Enter float:4.5
+Size is 4
+Enter char :p
+Size is 1
+Enter string :hello
+Size is 32
+Enter a double :5.66666666666666
+Size is 8
+Enter a boolean: 1
+Size is 1
+*/

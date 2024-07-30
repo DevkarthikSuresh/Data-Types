@@ -13,9 +13,10 @@ Primitive data types are the most basic data types provided by a programming lan
 Example: int age = 25;
 
 ##### 2. Float: Single-precision floating-point number.
+
 ##### 3. Double: Double-precision floating-point number.
 Example: float height = 5.9;
-Character Types:
+
 
 ##### 4. Char: Represents a single character.
 Example: char initial = 'A';
@@ -27,3 +28,20 @@ Example: bool isStudent = true;
 String: Represents a sequence of characters.
 Example: string name = "Alice";
 
+## Algorithm 
+
+* Start
+
+* Include Necessary Headers
+
+* Include the header files <string> and <iostream> to use string and I/O functionalities.
+ Using Namespace
+
+*  Declare variables of different data types: int, float, char, bool, string, and double.
+   Input and Output Operations
+
+* For each variable:
+Prompt the user to enter a value.
+Read the input value.
+Output the size of the variable using the sizeof operator.
+* End

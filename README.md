@@ -2,7 +2,8 @@
 Experiment_2
 ## AIM - 
 To check given data types
-
+## Software Used - 
+VS Code
 ## Theory
 Data types are fundamental to programming, providing a way to define the type of data that can be stored and manipulated within a program
 

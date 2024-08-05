@@ -2,7 +2,7 @@
 Experiment_2
 ## AIM - 
 To check given data types
-## Software Used - 
+## Software Used 
 VS Code
 ## Theory
 Data types are fundamental to programming, providing a way to define the type of data that can be stored and manipulated within a program
@@ -47,3 +47,6 @@ Prompt the user to enter a value.
 Read the input value.
 Output the size of the variable using the sizeof operator.
 * End
+
+## Conclusion 
+We learnt to use the basic data types of C++.
